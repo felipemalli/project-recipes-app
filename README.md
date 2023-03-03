@@ -1,10 +1,10 @@
 # App de Receitas
 
-### Aplicativo de receitas, em que o usuário poderá ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks. O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
+Aplicativo de receitas, em que o usuário poderá ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks. O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
 
 # Desenvolvimento
 
-### Foi utilizado no desenvolvimento do projeto, duas base de dados de 2 APIs distintas, uma para comidas e outra de bebidas.
+Foi utilizado no desenvolvimento do projeto, duas base de dados de 2 APIs distintas, uma para comidas e outra de bebidas.
 
 ## APIs
 
@@ -190,7 +190,7 @@ A extensão Live Share permite aos participantes da sessão visualizar ou editar
 
 <img src="./src/images/live-share.png" alt="demonstração da aplicação" />
 
-## Equipe de desenvolvimento 😎 😎 😎 😎
+## Equipe de desenvolvimento
 <div>
   <div>
     <img width="60" src="https://avatars.githubusercontent.com/u/88905074?v=4" alt="Felipe Vahia" />
@@ -212,8 +212,3 @@ A extensão Live Share permite aos participantes da sessão visualizar ou editar
     <a href="https://github.com/raphael-caninde">Raphael O. Canindé</a>
   </div>
 </div>
-
-<br>
-<br>
-
-OBS: Projeto desenvolvido a pedido da trybe;
